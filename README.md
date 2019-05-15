@@ -2,6 +2,10 @@
 
 An acrylic layered case for the [qt45 PCB](https://github.com/qtkb/qt45-pcb).
 
+N.B. The first prototype had some minor issues that needed correcting with a file, so going to wait to release exported files until I have tested the changes.
+
+![qt45 prototype](https://i.imgur.com/cvEGG9C.jpg)
+
 
 ## Hardware
 
